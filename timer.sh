@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# CONFIG #
 # change the path of Music File as needed.
-MUSICFILE="Music/sounds/soundeffect_wow_fairy_tales.mp3"
+MUSICFILE="$HOME/Music/sounds/soundeffect_wow_fairy_tales.mp3"
+###############################################################
 
 HLB="\e[1;3;35;40m"
 HLR="\e[1;31m"
